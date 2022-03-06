@@ -1,0 +1,107 @@
+.b{
+    font-size: 70px;
+    font-family: cursive;
+    color:black;
+    text-shadow: 20px;
+
+    border-color: black;
+    border-width: 2px;
+bottom: 10px;
+  
+ 
+}
+#a{
+    height: 200px;
+    width: 200px;
+    border-radius: 200px;
+
+}
+
+img{
+
+border-radius: 30px;
+border-color: black;
+
+}
+.d{
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: white;
+width: 100%;
+background-color: brown;
+height: 50px;
+}
+
+#bestseller{
+    height: 40px;
+    background-color: orangered;
+}
+
+#menu{
+    height: 40px;
+    background-color: orangered;
+}
+
+
+#form{
+    height: 40px;
+    background-color: orangered;
+}
+
+#back{
+    margin-top: 7px;
+    margin-right: 7px;
+    height: 35px;
+    background-color:orange;
+    float: right; 
+}
+#C{
+    width: 400px;
+}
+
+
+i{
+    width: 30%;
+}
+
+#v{
+    height: 250px;
+    border-radius: 200px;
+    width: 250px;
+}
+
+#X{
+    font-size: 40px;
+    font-weight:bolder;
+    font-family: cursive;
+    
+}
+
+canvas{
+    background-color: white;
+    height: 300px;
+    width: 500px;
+    border-radius: 30px;
+}
+#cc{
+    height: 500px;
+}
+
+
+
+#k{
+    font-size: 40px;
+    font-family: cursive;
+}
+
+
+#www{
+    height: 40px;
+    width: 90px;
+    background-color: red;
+}
+
+
+
+
+
